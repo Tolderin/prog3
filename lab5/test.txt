@@ -1,0 +1,9 @@
+dreher barna 5.0
+soproni feher 4.3
+heinekken kezmuves 6.0
+dreher feher 2.0
+soproni kezmuves 2.0
+heinekken feher 0.0
+dreher kezmuves 3.0
+soproni barna 4.0
+heinekken barna 3.0
