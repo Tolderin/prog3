@@ -1,0 +1,9 @@
+soproni ipa 3.0
+heinekken fehér 3.0
+dreher barna 1.0
+soproni barna 5.0
+heinekken ipa 7.0
+dreher fehér 2.0
+soproni fehér 1.0
+heinekken barna 2.0
+dreher ipa 4.0
