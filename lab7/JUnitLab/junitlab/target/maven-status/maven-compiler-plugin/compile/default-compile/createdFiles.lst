@@ -1,0 +1,4 @@
+junitlab\bank\BankException.class
+junitlab\bank\Bank.class
+junitlab\bank\AccountNotExistsException.class
+junitlab\bank\NotEnoughFundsException.class
